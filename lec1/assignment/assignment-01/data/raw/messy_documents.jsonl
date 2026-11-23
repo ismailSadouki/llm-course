@@ -1,0 +1,24 @@
+{"id": 0, "text": "<html><body><h1>Les modèles de langage</h1><p>Ils <b>comprennent</b> le contexte&nbsp;?</p></body></html>"}
+{"id": 1, "text": "The model is NOT performing well!"}
+{"id": 2, "text": "The model is not performing well."}
+{"id": 3, "text": "  The model is   not performing well.  \n"}
+{"id": 4, "text": "Let's eat, grandma!"}
+{"id": 5, "text": "Let's eat grandma!"}
+{"id": 6, "text": null}
+{"id": 7, "text": ""}
+{"id": 8, "text": "   \n\t  "}
+{"id": 9, "text": "Apple released a new product."}
+{"id": 10, "text": "I ate an apple yesterday."}
+{"id": 11, "text": "<p>Tokenization is <i>fundamental</i> to language models.</p>"}
+{"id": 12, "text": "Tokenization is fundamental to language models."}
+{"id": 13, "text": "<script>var x = 1;</script><style>p{color:red}</style><div>Visible text only.</div>"}
+{"id": 14, "text": "L'élève à l'école."}
+{"id": 15, "text": "L'élève à l'école."}
+{"id": 16, "text": "الذكاء الاصطناعي يتطور بسرعة كبيرة."}
+{"id": 17, "text": "السَّلامُ عَلَيْكُم مـــن هنا"}
+{"id": 18, "text": "واش راك؟ راني نتعلم نماذج اللغة الكبيرة."}
+{"id": 19, "text": "واش   راك؟ راني نتعلم\nنماذج اللغة الكبيرة."}
+{"id": 20, "text": "Price: 5 &lt; 10 &amp; 10 &gt; 5"}
+{"id": 21, "text": "Hello    world"}
+{"id": 22, "text": "Hello world"}
+{"id": 23, "text": 12345}

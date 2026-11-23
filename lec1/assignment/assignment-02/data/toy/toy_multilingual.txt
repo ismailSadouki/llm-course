@@ -1,0 +1,20 @@
+The cat sat on the mat and looked at the dog.
+Tokenization splits text into smaller pieces.
+Language models predict the next token in a sequence.
+Learning to program takes time and practice.
+The weather is nice today, isn't it?
+She reads a book every evening before bed.
+Machine learning needs a lot of data.
+We went to the market to buy fresh vegetables.
+The quick brown fox jumps over the lazy dog.
+Please close the window because it is cold.
+Le chat dort sur le canapé toute la journée.
+La tokenisation découpe le texte en petits morceaux.
+Les modèles de langage prédisent le mot suivant.
+Apprendre à programmer demande du temps et de la pratique.
+Il fait beau aujourd'hui, n'est-ce pas ?
+Elle lit un livre chaque soir avant de dormir.
+L'apprentissage automatique a besoin de beaucoup de données.
+Nous sommes allés au marché acheter des légumes frais.
+Le renard brun saute par-dessus le chien paresseux.
+Fermez la fenêtre s'il vous plaît, il fait froid.

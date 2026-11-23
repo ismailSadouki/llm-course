@@ -1,0 +1,301 @@
+id,language,text
+0,en,The weather in Algiers is warm and sunny today.
+1,en,Could you please send me the report before Friday afternoon?
+2,en,My brother works as a software engineer in a small startup.
+3,en,She has been learning to play the piano for three years.
+4,en,The train to Oran leaves at 7:45 and arrives at 12:30.
+5,en,"We should not forget to buy milk, eggs and bread."
+6,en,Climate change is one of the biggest challenges of our time.
+7,en,He didn't know that the library closes at 6 p.m. on Sundays.
+8,en,"The new smartphone costs $799, which is more than I expected."
+9,en,Please read the instructions carefully before you start the exam.
+10,en,"Neural networks can recognise faces, translate text and play games."
+11,en,Our flight was delayed by two hours because of heavy fog.
+12,en,What time does the museum open on Saturday morning?
+13,en,I'm going to cook a traditional couscous for the whole family.
+14,en,The university announced a new scholarship programme for students.
+15,en,Learning a second language opens doors to new cultures and ideas.
+16,en,The doctor advised him to drink more water and sleep earlier.
+17,en,It's impossible to understand this sentence without the context.
+18,en,They built a bridge across the river in less than a year.
+19,en,Scientists discovered a new species of frog in the rainforest.
+20,en,Can you recommend a good restaurant near the central station?
+21,en,The match ended 2-1 after an incredible goal in the last minute.
+22,en,Do not open the door to strangers when you are home alone.
+23,en,She won first prize in the national mathematics competition.
+24,en,The company plans to hire 250 new employees next quarter.
+25,en,"I forgot my umbrella, so I got completely soaked on the way home."
+26,en,"Good morning, ladies and gentlemen, and welcome on board."
+27,en,The recipe calls for two cups of flour and a teaspoon of salt.
+28,en,Many farmers rely on rainfall to irrigate their crops.
+29,en,He apologised for the misunderstanding and promised it would not happen again.
+30,en,Electric cars are becoming more popular in several European countries.
+31,en,The professor explained the theorem using a simple geometric picture.
+32,en,We watched the sunset from the top of the hill.
+33,en,Is it true that the meeting has been moved to Tuesday?
+34,en,The old bookshop on the corner sells rare maps and postcards.
+35,en,Her grandmother tells wonderful stories about life in the mountains.
+36,en,"Open-source software allows anyone to inspect, modify and share the code."
+37,en,The city council approved a plan to plant ten thousand trees.
+38,en,You can reach customer support at help@example.com or by phone.
+39,en,"After the storm, the streets were covered with broken branches."
+40,en,The children were playing football in the courtyard until sunset.
+41,en,"A healthy diet includes vegetables, fruit, whole grains and enough protein."
+42,en,He has lived in Canada since 2015 but still misses his hometown.
+43,en,"The printer is out of paper, and nobody knows where the spare ones are."
+44,en,"Artificial intelligence will change how we work, learn and communicate."
+45,en,Tokenization splits a sentence into smaller units that a model can process.
+46,en,The festival attracts thousands of visitors from all over the world every summer.
+47,en,I would rather walk than wait forty minutes for the next bus.
+48,en,"The invoice number is INV-2024-0173 and the total is 1,250 euros."
+49,en,Their research shows that regular exercise improves memory and concentration.
+50,en,Please turn off your phones during the performance.
+51,en,Nobody expected the small team to reach the final.
+52,en,The ancient city was rediscovered by archaeologists in the nineteenth century.
+53,en,Why do some words get split into several pieces by a tokenizer?
+54,en,"The river floods every spring, bringing fertile soil to the valley."
+55,en,My laptop battery lasts about eight hours on a single charge.
+56,en,"Honesty is the best policy, especially when you work in a team."
+57,en,The mayor opened the new hospital with a short speech.
+58,en,"Take the second street on the left, then walk straight for 200 metres."
+59,en,"The film was a masterpiece, although it was a little too long."
+60,en,She whispered a secret in his ear and left the room.
+61,en,Students must submit their projects through the online platform by midnight.
+62,en,The price of olive oil has doubled in the last two years.
+63,en,It was the first time that he had ever seen snow.
+64,en,A good teacher inspires curiosity rather than simply giving answers.
+65,en,The satellite sends data back to Earth every ninety minutes.
+66,en,We're organising a cleaning day at the beach this weekend.
+67,en,The patient was released from the hospital after a quick recovery.
+68,en,Never underestimate the power of a well-written question.
+69,en,The bakery on Main Street makes the best croissants in town.
+70,en,His handwriting is so messy that nobody can read it.
+71,en,The government is preparing a reform of the education system.
+72,en,Our neighbours are moving to a bigger apartment next month.
+73,en,"The conference will be held online, so everyone can attend from home."
+74,en,"He solved the puzzle in under a minute, to everyone's surprise."
+75,en,Wikipedia is written and edited by volunteers around the world.
+76,en,"The airline lost my luggage, but they found it two days later."
+77,en,Remember to back up your files before updating the operating system.
+78,en,"The little girl drew a house, a tree and a bright yellow sun."
+79,en,"There are 365 days in a year, except in a leap year."
+80,en,The politician refused to answer questions about the scandal.
+81,en,Fresh herbs make a simple soup taste extraordinary.
+82,en,I can't believe it's already December!
+83,en,The company's profits fell by 12% compared with last year.
+84,en,"Whenever it rains, the road to the village becomes a river of mud."
+85,en,"She is allergic to peanuts, so please check the ingredients."
+86,en,The football stadium can hold more than forty thousand spectators.
+87,en,"This tutorial shows how to install Python on Windows, macOS and Linux."
+88,en,They celebrated their anniversary with a quiet dinner by the sea.
+89,en,The orchestra performed Beethoven's ninth symphony last night.
+90,en,Our teacher asked us to write an essay about the future of cities.
+91,en,The cat jumped onto the table and knocked over the glass.
+92,en,Public libraries are essential places for learning and community life.
+93,en,How many tokens does this paragraph contain after tokenization?
+94,en,The mountain village is only accessible by a narrow dirt road.
+95,en,"A strong password should contain letters, numbers and symbols."
+96,en,The explorer crossed the desert with nothing but a compass and a map.
+97,en,He booked a room for two nights at a hotel near the airport.
+98,en,"Despite the rain, thousands of people attended the outdoor concert."
+99,en,"The museum's collection includes more than 5,000 ancient coins."
+100,fr,Le temps à Alger est chaud et ensoleillé aujourd'hui.
+101,fr,Pourriez-vous m'envoyer le rapport avant vendredi après-midi ?
+102,fr,Mon frère travaille comme ingénieur logiciel dans une petite entreprise.
+103,fr,Elle apprend à jouer du piano depuis trois ans.
+104,fr,Le train pour Oran part à 7 h 45 et arrive à 12 h 30.
+105,fr,"N'oublions pas d'acheter du lait, des œufs et du pain."
+106,fr,Le changement climatique est l'un des plus grands défis de notre époque.
+107,fr,Il ne savait pas que la bibliothèque ferme à 18 h le dimanche.
+108,fr,"Le nouveau téléphone coûte 799 euros, ce qui est plus que prévu."
+109,fr,Veuillez lire attentivement les consignes avant de commencer l'examen.
+110,fr,Les réseaux de neurones savent reconnaître des visages et traduire des textes.
+111,fr,Notre vol a été retardé de deux heures à cause d'un épais brouillard.
+112,fr,À quelle heure le musée ouvre-t-il samedi matin ?
+113,fr,Je vais préparer un couscous traditionnel pour toute la famille.
+114,fr,L'université a annoncé un nouveau programme de bourses pour les étudiants.
+115,fr,Apprendre une deuxième langue ouvre la porte à de nouvelles cultures.
+116,fr,Le médecin lui a conseillé de boire plus d'eau et de se coucher plus tôt.
+117,fr,Il est impossible de comprendre cette phrase sans son contexte.
+118,fr,Ils ont construit un pont sur la rivière en moins d'un an.
+119,fr,Des scientifiques ont découvert une nouvelle espèce de grenouille dans la forêt.
+120,fr,Pouvez-vous me recommander un bon restaurant près de la gare ?
+121,fr,Le match s'est terminé sur le score de 2 à 1 grâce à un but à la dernière minute.
+122,fr,N'ouvrez pas la porte aux inconnus lorsque vous êtes seul à la maison.
+123,fr,Elle a remporté le premier prix du concours national de mathématiques.
+124,fr,L'entreprise prévoit d'embaucher 250 nouveaux employés le trimestre prochain.
+125,fr,"J'ai oublié mon parapluie, alors je suis rentré complètement trempé."
+126,fr,"Bonjour, mesdames et messieurs, et bienvenue à bord."
+127,fr,La recette demande deux tasses de farine et une cuillère à café de sel.
+128,fr,De nombreux agriculteurs dépendent de la pluie pour irriguer leurs cultures.
+129,fr,Il s'est excusé pour le malentendu et a promis que cela ne se reproduirait pas.
+130,fr,Les voitures électriques deviennent de plus en plus populaires en Europe.
+131,fr,Le professeur a expliqué le théorème à l'aide d'un schéma géométrique simple.
+132,fr,Nous avons regardé le coucher du soleil depuis le sommet de la colline.
+133,fr,Est-il vrai que la réunion a été déplacée à mardi ?
+134,fr,La vieille librairie du coin vend des cartes rares et des cartes postales.
+135,fr,Sa grand-mère raconte de merveilleuses histoires sur la vie en montagne.
+136,fr,"Les logiciels libres permettent à chacun d'inspecter, de modifier et de partager le code."
+137,fr,Le conseil municipal a approuvé un projet de plantation de dix mille arbres.
+138,fr,Vous pouvez joindre le service client à aide@exemple.fr ou par téléphone.
+139,fr,"Après l'orage, les rues étaient couvertes de branches cassées."
+140,fr,Les enfants jouaient au football dans la cour jusqu'au coucher du soleil.
+141,fr,"Une alimentation saine comprend des légumes, des fruits, des céréales complètes et des protéines."
+142,fr,Il vit au Canada depuis 2015 mais sa ville natale lui manque toujours.
+143,fr,L'imprimante n'a plus de papier et personne ne sait où sont les rames de rechange.
+144,fr,L'intelligence artificielle va transformer notre façon de travailler et de communiquer.
+145,fr,La tokenisation découpe une phrase en unités plus petites que le modèle peut traiter.
+146,fr,Le festival attire chaque été des milliers de visiteurs du monde entier.
+147,fr,Je préfère marcher plutôt que d'attendre quarante minutes le prochain bus.
+148,fr,Le numéro de facture est FAC-2024-0173 et le total s'élève à 1 250 euros.
+149,fr,Leurs recherches montrent que l'exercice régulier améliore la mémoire et la concentration.
+150,fr,Veuillez éteindre vos téléphones pendant la représentation.
+151,fr,Personne ne s'attendait à ce que la petite équipe atteigne la finale.
+152,fr,La cité antique a été redécouverte par des archéologues au XIXe siècle.
+153,fr,Pourquoi certains mots sont-ils découpés en plusieurs morceaux par un tokeniseur ?
+154,fr,La rivière déborde chaque printemps et apporte une terre fertile à la vallée.
+155,fr,La batterie de mon ordinateur portable dure environ huit heures.
+156,fr,"L'honnêteté est la meilleure politique, surtout quand on travaille en équipe."
+157,fr,Le maire a inauguré le nouvel hôpital par un court discours.
+158,fr,"Prenez la deuxième rue à gauche, puis continuez tout droit sur 200 mètres."
+159,fr,"Le film était un chef-d'œuvre, bien qu'un peu trop long."
+160,fr,Elle a chuchoté un secret à son oreille et a quitté la pièce.
+161,fr,Les étudiants doivent déposer leurs projets sur la plateforme avant minuit.
+162,fr,Le prix de l'huile d'olive a doublé au cours des deux dernières années.
+163,fr,C'était la première fois qu'il voyait de la neige.
+164,fr,Un bon enseignant éveille la curiosité au lieu de simplement donner des réponses.
+165,fr,Le satellite renvoie des données vers la Terre toutes les quatre-vingt-dix minutes.
+166,fr,Nous organisons une journée de nettoyage de la plage ce week-end.
+167,fr,Le patient a quitté l'hôpital après une guérison rapide.
+168,fr,Ne sous-estimez jamais le pouvoir d'une question bien posée.
+169,fr,La boulangerie de la rue principale fait les meilleurs croissants de la ville.
+170,fr,Son écriture est tellement brouillonne que personne ne parvient à la lire.
+171,fr,Le gouvernement prépare une réforme du système éducatif.
+172,fr,Nos voisins déménagent le mois prochain dans un appartement plus grand.
+173,fr,"La conférence aura lieu en ligne, chacun pourra donc y assister depuis chez soi."
+174,fr,"Il a résolu l'énigme en moins d'une minute, à la surprise générale."
+175,fr,Wikipédia est rédigée et modifiée par des bénévoles du monde entier.
+176,fr,"La compagnie aérienne a perdu mes bagages, mais les a retrouvés deux jours plus tard."
+177,fr,Pensez à sauvegarder vos fichiers avant de mettre à jour le système d'exploitation.
+178,fr,"La petite fille a dessiné une maison, un arbre et un grand soleil jaune."
+179,fr,"Il y a 365 jours dans une année, sauf pendant une année bissextile."
+180,fr,Le politicien a refusé de répondre aux questions sur le scandale.
+181,fr,Les herbes fraîches rendent une simple soupe extraordinaire.
+182,fr,Je n'arrive pas à croire que nous sommes déjà en décembre !
+183,fr,Les bénéfices de l'entreprise ont baissé de 12 % par rapport à l'an dernier.
+184,fr,"Chaque fois qu'il pleut, le chemin du village se transforme en rivière de boue."
+185,fr,"Elle est allergique aux cacahuètes, merci de vérifier les ingrédients."
+186,fr,Le stade de football peut accueillir plus de quarante mille spectateurs.
+187,fr,"Ce tutoriel montre comment installer Python sur Windows, macOS et Linux."
+188,fr,Ils ont fêté leur anniversaire de mariage par un dîner tranquille au bord de la mer.
+189,fr,L'orchestre a joué hier soir la neuvième symphonie de Beethoven.
+190,fr,Notre professeur nous a demandé de rédiger une dissertation sur l'avenir des villes.
+191,fr,Le chat a sauté sur la table et renversé le verre.
+192,fr,Les bibliothèques publiques sont des lieux essentiels pour l'apprentissage et la vie collective.
+193,fr,Combien de jetons ce paragraphe contient-il après la tokenisation ?
+194,fr,Le village de montagne n'est accessible que par un étroit chemin de terre.
+195,fr,"Un mot de passe solide doit contenir des lettres, des chiffres et des symboles."
+196,fr,L'explorateur a traversé le désert avec pour seuls bagages une boussole et une carte.
+197,fr,Il a réservé une chambre pour deux nuits dans un hôtel près de l'aéroport.
+198,fr,"Malgré la pluie, des milliers de personnes ont assisté au concert en plein air."
+199,fr,La collection du musée comprend plus de 5 000 pièces de monnaie antiques.
+200,ar_msa,الطقس في الجزائر العاصمة دافئ ومشمس اليوم.
+201,ar_msa,هل يمكنك أن ترسل لي التقرير قبل ظهر يوم الجمعة؟
+202,ar_msa,يعمل أخي مهندس برمجيات في شركة ناشئة صغيرة.
+203,ar_msa,تتعلم هي العزف على البيانو منذ ثلاث سنوات.
+204,ar_msa,يغادر القطار المتجه إلى وهران في الساعة السابعة وخمس وأربعين دقيقة.
+205,ar_msa,لا تنسَ أن تشتري الحليب والبيض والخبز.
+206,ar_msa,يعد تغير المناخ من أكبر التحديات في عصرنا.
+207,ar_msa,أعلنت الجامعة عن برنامج جديد للمنح الدراسية للطلاب.
+208,ar_msa,تعلم لغة ثانية يفتح الأبواب أمام ثقافات وأفكار جديدة.
+209,ar_msa,نصحه الطبيب بشرب المزيد من الماء والنوم مبكرا.
+210,ar_msa,اكتشف العلماء نوعا جديدا من الضفادع في الغابة المطيرة.
+211,ar_msa,هل تستطيع أن توصي بمطعم جيد قرب المحطة المركزية؟
+212,ar_msa,انتهت المباراة بنتيجة هدفين مقابل هدف بعد هدف رائع في الدقيقة الأخيرة.
+213,ar_msa,فازت بالجائزة الأولى في المسابقة الوطنية للرياضيات.
+214,ar_msa,تخطط الشركة لتوظيف مئتين وخمسين موظفا جديدا في الربع القادم.
+215,ar_msa,صباح الخير أيها السيدات والسادة ومرحبا بكم على متن الطائرة.
+216,ar_msa,يعتمد كثير من المزارعين على الأمطار لري محاصيلهم.
+217,ar_msa,تزداد شعبية السيارات الكهربائية في عدة دول أوروبية.
+218,ar_msa,شرح الأستاذ النظرية باستخدام رسم هندسي بسيط.
+219,ar_msa,شاهدنا غروب الشمس من قمة التل.
+220,ar_msa,تبيع المكتبة القديمة في الزاوية خرائط نادرة وبطاقات بريدية.
+221,ar_msa,تروي جدتها قصصا رائعة عن الحياة في الجبال.
+222,ar_msa,تتيح البرمجيات مفتوحة المصدر للجميع فحص الشيفرة وتعديلها ومشاركتها.
+223,ar_msa,وافق المجلس البلدي على خطة لزراعة عشرة آلاف شجرة.
+224,ar_msa,بعد العاصفة، كانت الشوارع مغطاة بالأغصان المكسورة.
+225,ar_msa,كان الأطفال يلعبون كرة القدم في الساحة حتى غروب الشمس.
+226,ar_msa,يتضمن الغذاء الصحي الخضروات والفواكه والحبوب الكاملة والبروتين.
+227,ar_msa,يعيش في كندا منذ عام ألفين وخمسة عشر لكنه ما زال يشتاق إلى مدينته.
+228,ar_msa,سيغير الذكاء الاصطناعي طريقة عملنا وتعلمنا وتواصلنا.
+229,ar_msa,يقسم الترميز الجملة إلى وحدات أصغر يستطيع النموذج معالجتها.
+230,ar_msa,يجذب المهرجان آلاف الزوار من جميع أنحاء العالم كل صيف.
+231,ar_msa,تُظهر أبحاثهم أن التمارين المنتظمة تحسن الذاكرة والتركيز.
+232,ar_msa,لم يتوقع أحد أن يصل الفريق الصغير إلى النهائي.
+233,ar_msa,أعيد اكتشاف المدينة القديمة على يد علماء الآثار في القرن التاسع عشر.
+234,ar_msa,لماذا تُقسَّم بعض الكلمات إلى عدة أجزاء بواسطة المُرمِّز؟
+235,ar_msa,يفيض النهر كل ربيع فيجلب تربة خصبة إلى الوادي.
+236,ar_msa,تدوم بطارية حاسوبي المحمول نحو ثماني ساعات.
+237,ar_msa,الصدق أفضل سياسة، خاصة عندما تعمل ضمن فريق.
+238,ar_msa,افتتح العمدة المستشفى الجديد بكلمة قصيرة.
+239,ar_msa,خذ الشارع الثاني على اليسار ثم امش مستقيما مسافة مئتي متر.
+240,ar_msa,كان الفيلم تحفة فنية، رغم أنه كان طويلا بعض الشيء.
+241,ar_msa,يجب على الطلاب تسليم مشاريعهم عبر المنصة قبل منتصف الليل.
+242,ar_msa,تضاعف سعر زيت الزيتون خلال السنتين الأخيرتين.
+243,ar_msa,كانت تلك أول مرة يرى فيها الثلج.
+244,ar_msa,المعلم الجيد يثير الفضول بدلا من الاكتفاء بإعطاء الإجابات.
+245,ar_msa,يرسل القمر الصناعي البيانات إلى الأرض كل تسعين دقيقة.
+246,ar_msa,ننظم يوما لتنظيف الشاطئ في نهاية هذا الأسبوع.
+247,ar_msa,غادر المريض المستشفى بعد تعافٍ سريع.
+248,ar_msa,لا تستهِن أبدا بقوة سؤال مصوغ جيدا.
+249,ar_msa,تتعلم نماذج اللغة أنماطا إحصائية من مجموعات نصية ضخمة.
+250,ar_darija,واش راك؟ راني نتعلم نماذج اللغة الكبيرة.
+251,ar_darija,غدوة نروح للجامعة باش نشوف الأستاذ.
+252,ar_darija,هاذ الخدمة صعيبة بزاف، ما نقدرش نكملها وحدي.
+253,ar_darija,وين راك رايح؟ استنّاني شوية!
+254,ar_darija,الطقس اليوم بارد بزاف، لازم تلبس مليح.
+255,ar_darija,راني جيعان، نحب ناكل كسكسي ولا شخشوخة.
+256,ar_darija,ما فهمتش واش قالك، عاود لي من فضلك.
+257,ar_darija,خويا يخدم في شركة كبيرة في دزاير العاصمة.
+258,ar_darija,كان عندي موعد مع الطبيب بكري الصباح.
+259,ar_darija,الكونكسيون ضعيفة اليوم ومارانيش نقدر نخدم.
+260,ar_darija,شحال هو ثمن هاد التليفون؟ غالي بزاف عليا.
+261,ar_darija,يا خو، دير لي خدمة وجيب لي الخبز من الحانوت.
+262,ar_darija,بنت جارتنا نجحت في الباك وعطاوها منحة.
+263,ar_darija,نتلاقاو غدوة في المحطة على الساعة ثمانية.
+264,ar_darija,هاذ الماتش كان زوين، والفريق تاعنا ربح.
+265,ar_darija,ماما حضرت لنا شربة فريك وبوراك لرمضان.
+266,ar_darija,ما تنساش تدير الدوا قبل ما تنعس.
+267,ar_darija,الطوموبيل تاعي تعطلات في الطريق وما لقيتش ميكانيسيان.
+268,ar_darija,راهم يقولو بلي الشتا جاية هاد الأسبوع.
+269,ar_darija,نحب نتعلم لغات جديدة، خاصة الإنجليزية والألمانية.
+270,ar_darija,ديما نقول لك: ما تديرش الخدمة على آخر لحظة.
+271,ar_darija,الدار تاعنا قريبة من البحر، نروحو للشاطئ كل جمعة.
+272,ar_darija,هاذ الفيلم طويل بزاف، ما عجبنيش.
+273,ar_darija,واش من خبار؟ ما شفناكش من مدة.
+274,ar_darija,خويا الصغير يحب يلعب بالبلايستيشن طول النهار.
+275,ar_darija,قالولي بلي الأستاذ مريض، يعني ما كاينش كور اليوم.
+276,ar_darija,نشريو الخضرة من السوق، هي أرخص من السوبيرات.
+277,ar_darija,الأطفال راهم يلعبو في الحوش حتى للمغرب.
+278,ar_darija,والله ما نعرف كيفاش نشكرك على هاد الخدمة.
+279,ar_darija,ركبنا الطرام وروحنا للدوار وحنا تعبانين.
+280,ar_darija,نهار الجمعة كاين سوق كبير في المدينة.
+281,ar_darija,بغيت نسقسيك على حاجة، عندك وقت شوية؟
+282,ar_darija,الأنترنات في الدار ما تخدمش مليح هاد الأيام.
+283,ar_darija,راني نقرا في كتاب مليح على التاريخ تاع الجزائر.
+284,ar_darija,جدتي تحكي لنا حكايات زوينة قبل ما ننعسو.
+285,ar_darija,ما عندي حتى فكرة واش نطيب لليوم.
+286,ar_darija,كي نكبر نحب نولي مهندس ونبني دزاير جديدة.
+287,ar_darija,الدراهم ما بقاوش كيما بكري، كلش غالي.
+288,ar_darija,هاد الكمبيوتر بطيء بزاف، لازم نبدلو.
+289,ar_darija,تعالى نشربو قهوة ونهدرو شوية.
+290,ar_darija,المعلم قال لنا نكتبو موضوع على المستقبل.
+291,ar_darija,اليوم سخانة كبيرة، ما نقدرش نخرج برا.
+292,ar_darija,نحبك بزاف يا صاحبي، ديما واقف معايا.
+293,ar_darija,الطريق كانت مسدودة بسبب الثلج في الجبل.
+294,ar_darija,نتصل بيك من بعد، راني في الخدمة دوك.
+295,ar_darija,شفتو الخبر؟ قالو بلي رايحين يفتحو مكتبة جديدة.
+296,ar_darija,هاذ الطبلة حطها هنا، وجيب الكراسي الأخرين.
+297,ar_darija,نخاف ننسى الكلمات، لازم نراجع كل يوم.
+298,ar_darija,بابا ديما يقول لنا: اللي يخدم يربح.
+299,ar_darija,غسلت الدار وطيبت وراني تعبانة ياسر.
